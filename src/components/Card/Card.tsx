@@ -2,7 +2,6 @@ import { Monster } from "../../shared/types";
 import "./Card.css";
 
 type CardProps = {
-  key: number;
   monster: Monster;
 };
 
